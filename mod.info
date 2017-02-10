@@ -1,0 +1,5 @@
+name=Spiffo Hunt
+poster=poster.png
+id=SpiffoHunt
+require=CoxisUtil
+description=PvP Gamemode similiar to Capture the Flag

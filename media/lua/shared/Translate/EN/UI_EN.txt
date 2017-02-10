@@ -1,0 +1,20 @@
+UI_DE = {
+	UI_SpiffoHunt_AdminMenu_Headline = "Admin menu for SpiffoHunt",
+	UI_SpiffoHunt_AdminMenu_StartRound = "Start round",
+	UI_SpiffoHunt_AdminMenu_StopRound = "End round",
+	UI_SpiffoHunt_AdminMenu_ZoneBlue = "Dropzone team blue",
+	UI_SpiffoHunt_AdminMenu_ZoneRed = "Dropzone team red",
+	UI_SpiffoHunt_JoinInfo_Warning = "WARNING: This is a special gamemode and does not represent the normal playstile of PZ!",
+	UI_SpiffoHunt_JoinInfo_Explanation = "SpiffoHunt is a capture the flag like gamemode. You have to capture the Spiffo and bring it back to your teams zone",
+	UI_SpiffoHunt_JoinInfo_JoinBlue = "Join team blue",
+	UI_SpiffoHunt_JoinInfo_JoinRed = "Join team red",
+	UI_SpiffoHunt_RoundState_10MinLeft = "Only 10 minutes remaining!",
+	UI_SpiffoHunt_RoundInfo_Headline = "Round Info",
+	UI_SpiffoHunt_RoundInfo_State = "Round status",
+	UI_SpiffoHunt_RoundInfo_Team = "Team",
+	UI_SpiffoHunt_RoundInfo_Blue = "Blue",
+	UI_SpiffoHunt_RoundInfo_Red = "Red",
+	UI_SpiffoHunt_RoundInfo_TimeLeft = "Time left",
+	UI_SpiffoHunt_RoundInfo_PointsBlue = "Points team blue",
+	UI_SpiffoHunt_RoundInfo_PointsRed = "Points team red"
+}
